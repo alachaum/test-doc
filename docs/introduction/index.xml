@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introductions on Example Doc Site</title>
+    <link>http://example.org/introduction/</link>
+    <description>Recent content in Introductions on Example Doc Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2017 14:22:45 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Admin]: Onboarding steps</title>
+      <link>http://example.org/introduction/1-onboarding/</link>
+      <pubDate>Fri, 25 Aug 2017 14:22:45 +1000</pubDate>
+      
+      <guid>http://example.org/introduction/1-onboarding/</guid>
+      <description>Engineer tools onboarding Gmail  Create maestrano email address using google admin panel Add the user to groups:  team(s): applications / engineers / marketing / sales / experience office: Sydney / London / UAE / US / &amp;hellip;   Github  The new commer must start by creating his own account - if he does not have one already Invite the user in the organisation Maestrano  Add the user to team(s) (Engineering team + Approvers and/or Enterprise Infrastructure if applicable)  Codeship  Go to https://app.</description>
+    </item>
+    
+    <item>
+      <title>Recruitement: Technical Testing</title>
+      <link>http://example.org/introduction/2-recruitment/</link>
+      <pubDate>Fri, 25 Aug 2017 14:22:45 +1000</pubDate>
+      
+      <guid>http://example.org/introduction/2-recruitment/</guid>
+      <description>Context Engineering candidates are required to pass a technical test. The goal of this test is to verify their ability to work with:
+ Ruby on Rails projects for the back-end AngularJS technology for the front-end APIs User Interfaces oriented projects  Expected Architecture The final project is supposed to display widgets containing maps showing data retrieved from the Impac! API.
+The AngularJS front-end is supposed not to query directly the Impac!</description>
+    </item>
+    
+    <item>
+      <title>Security Training</title>
+      <link>http://example.org/introduction/3-security/</link>
+      <pubDate>Fri, 25 Aug 2017 14:22:45 +1000</pubDate>
+      
+      <guid>http://example.org/introduction/3-security/</guid>
+      <description>Title Security Training   Requirement Mandatory   Description This entry aims at providing new-starter with a broad overview of how security concepts must be implemented in software development.    1 - Rails Security Guide The Rails security guide is a simplified but complete reference when it comes to implementing secure practices inside software. The concepts this guide covers are not Rails specific and may be applied to any application.</description>
+    </item>
+    
+  </channel>
+</rss>
