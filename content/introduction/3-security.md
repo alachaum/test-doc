@@ -75,4 +75,7 @@ Maestrano has a Secure Coding Policy, which includes checklist that you must use
 
 ## 6 - Maestrano Security Guides
 
+![](/)
+
 The [Security section](Security) of this wiki space contains various articles related to web security that you must read.
+
