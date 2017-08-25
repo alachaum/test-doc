@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://alachaum.github.io/test-doc"
 languageCode = "en-us"
 title = "Example Doc Site"
 theme = "docdock"
